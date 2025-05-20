@@ -2,7 +2,7 @@
 
 This project implements a gesture recognition system on an ESP32 using an MPU6050 IMU and a model trained with Edge Impulse. The system detects three gestures ("Z", "O", "V") and gives real-time feedback using an RGB LED. A button (limit switch) is used to trigger gesture capture and inference.
 
----
+--
 
 ## Setup Instructions
 
@@ -25,7 +25,7 @@ This project implements a gesture recognition system on an ESP32 using an MPU605
 
 - **Power the board** via USB-C or battery.
 
----
+--
 
 ### 2. Data Collection (Optional for training)
 
