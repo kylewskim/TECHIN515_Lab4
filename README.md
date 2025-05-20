@@ -4,6 +4,8 @@ This project implements a gesture recognition system on an ESP32 using an MPU605
 
 
 
+
+
 ## Setup Instructions
 
 ### 1. Hardware Assembly
@@ -24,6 +26,8 @@ This project implements a gesture recognition system on an ESP32 using an MPU605
   - Other end to **GND**
 
 - **Power the board** via USB-C or battery.
+
+
 
 
 
